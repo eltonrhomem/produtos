@@ -24,6 +24,6 @@ public class Main {
             traducaoService.traduzir(produto);
             System.out.println(produto);
         }
-        
+
     }
 }
